@@ -1,0 +1,677 @@
+{
+    "document_title": "National Senior Certificate (NSC) Examinations Timetable",
+    "issuer": "Department of Basic Education, Republic of South Africa",
+    "date_of_issue": "February 2026",
+    "examination_period": "October/November 2026",
+    "file_reference": "oct-nov-2026-nsc-timetable-final-february-2026.pdf",
+    "enquiries": {
+      "contact_person": "Dr R Poliah",
+      "department": "Chief Directorate: National Assessment and Public Examinations (NAPE)",
+      "phone": "012 357 3900"
+    },
+    "pre_examination_milestones": [
+      {
+        "id": "PRE_LO_CAT",
+        "name": "Life Orientation (LO CAT)",
+        "date": "2026-09-01",
+        "time_slot": "09:00",
+        "duration": "2 1/2hrs"
+      },
+      {
+        "id": "PRE_PLEDGE",
+        "name": "Pledge Signing",
+        "date": "2026-10-09",
+        "time_slot": "09:00",
+        "duration": null
+      },
+      {
+        "id": "PRE_LO_REWRITE",
+        "name": "Life Orientation (LO CAT) Rewrite",
+        "date": "2026-10-12",
+        "time_slot": "09:00",
+        "duration": "2 1/2hrs"
+      },
+      {
+        "id": "PRAC_PERFORMING_ARTS",
+        "name": "Performing Arts Practical",
+        "date_range": "3 August to 9 October 2026",
+        "time_slot": "09:00",
+        "duration": null
+      },
+      {
+        "id": "PRAC_VISUAL_ARTS_DESIGN",
+        "name": "Visual Arts and Design Practical",
+        "date_range": "14 September to 13 October 2026",
+        "time_slot": "09:00",
+        "duration": null
+      }
+    ],
+    "timetable": [
+      {
+        "date": "2026-10-12",
+        "day_of_week": "Monday",
+        "week_number": 1,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [],
+          "afternoon_14_00": []
+        }
+      },
+      {
+        "date": "2026-10-13",
+        "day_of_week": "Tuesday",
+        "week_number": 1,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [
+            { "id": "HIN_HL_P1", "subject": "Hindi HL P1", "duration": "2hrs" },
+            { "id": "HIN_FAL_P1", "subject": "Hindi FAL P1", "duration": "2hrs" },
+            { "id": "HIN_SAL_P1", "subject": "Hindi SAL P1", "duration": "2hrs" },
+            { "id": "GUJ_HL_P1", "subject": "Gujarati HL P1", "duration": "2hrs" },
+            { "id": "GUJ_FAL_P1", "subject": "Gujarati FAL P1", "duration": "2hrs" },
+            { "id": "GUJ_SAL_P1", "subject": "Gujarati SAL P1", "duration": "2hrs" },
+            { "id": "TAM_HL_P1", "subject": "Tamil HL P1", "duration": "2hrs" },
+            { "id": "TAM_FAL_P1", "subject": "Tamil FAL P1", "duration": "2hrs" },
+            { "id": "TAM_SAL_P1", "subject": "Tamil SAL P1", "duration": "2hrs" },
+            { "id": "TEL_HL_P1", "subject": "Telugu HL P1", "duration": "2hrs" },
+            { "id": "TEL_FAL_P1", "subject": "Telugu FAL P1", "duration": "2hrs" },
+            { "id": "TEL_SAL_P1", "subject": "Telugu SAL P1", "duration": "2hrs" },
+            { "id": "URD_HL_P1", "subject": "Urdu HL P1", "duration": "2hrs" },
+            { "id": "URD_FAL_P1", "subject": "Urdu FAL P1", "duration": "2hrs" },
+            { "id": "URD_SAL_P1", "subject": "Urdu SAL P1", "duration": "2hrs" },
+            { "id": "HEB_SAL_P1", "subject": "Hebrew SAL P1", "duration": "2hrs" },
+            { "id": "GER_HL_P1", "subject": "German HL P1", "duration": "2hrs" },
+            { "id": "GER_FAL_P1", "subject": "German FAL P1", "duration": "2hrs" },
+            { "id": "GER_SAL_P1", "subject": "German SAL P1", "duration": "2hrs" }
+          ],
+          "afternoon_14_00": [
+            { "id": "CAT_P1_PRAC", "subject": "Computer Applications Tech P1 Practical", "duration": "3hrs" }
+          ]
+        }
+      },
+      {
+        "date": "2026-10-14",
+        "day_of_week": "Wednesday",
+        "week_number": 1,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [
+            { "id": "IT_P1_PRAC", "subject": "Information Technology P1 Practical", "duration": "3hrs" }
+          ],
+          "afternoon_14_00": [
+            { "id": "ARA_SAL_P1", "subject": "Arabic SAL P1", "duration": "2hrs" },
+            { "id": "FRE_SAL_P1", "subject": "French SAL P1", "duration": "2hrs" },
+            { "id": "ITA_SAL_P1", "subject": "Italian SAL P1", "duration": "2hrs" },
+            { "id": "MAN_SAL_P1", "subject": "Mandarin SAL P1", "duration": "2hrs" },
+            { "id": "GRK_SAL_P1", "subject": "Modern Greek SAL P1", "duration": "2hrs" },
+            { "id": "SER_SAL_P1", "subject": "Serbian SAL P1", "duration": "2hrs" },
+            { "id": "SPA_SAL_P1", "subject": "Spanish SAL P1", "duration": "2hrs" },
+            { "id": "LAT_SAL_P1", "subject": "Latin SAL P1", "duration": "3hrs" },
+            { "id": "POR_HL_P1", "subject": "Portuguese HL P1", "duration": "2hrs" },
+            { "id": "POR_FAL_P1", "subject": "Portuguese FAL P1", "duration": "2hrs" },
+            { "id": "POR_SAL_P1", "subject": "Portuguese SAL P1", "duration": "2hrs" }
+          ]
+        }
+      },
+      {
+        "date": "2026-10-15",
+        "day_of_week": "Thursday",
+        "week_number": 1,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [
+            { "id": "ENG_HL_P3", "subject": "English HL P3", "duration": "3hrs" },
+            { "id": "ENG_FAL_P3", "subject": "English FAL P3", "duration": "2 1/2hrs" },
+            { "id": "ENG_SAL_P3", "subject": "English SAL P3", "duration": "2 1/2hrs" }
+          ],
+          "afternoon_14_00": [
+            { "id": "HIN_HL_P2", "subject": "Hindi HL P2", "duration": "2 1/2hrs" },
+            { "id": "HIN_FAL_P2", "subject": "Hindi FAL P2", "duration": "2hrs" },
+            { "id": "HIN_SAL_P2", "subject": "Hindi SAL P2", "duration": "2hrs" },
+            { "id": "GUJ_HL_P2", "subject": "Gujarati HL P2", "duration": "2 1/2hrs" },
+            { "id": "GUJ_FAL_P2", "subject": "Gujarati FAL P2", "duration": "2hrs" },
+            { "id": "GUJ_SAL_P2", "subject": "Gujarati SAL P2", "duration": "2hrs" },
+            { "id": "TAM_HL_P2", "subject": "Tamil HL P2", "duration": "2 1/2hrs" },
+            { "id": "TAM_FAL_P2", "subject": "Tamil FAL P2", "duration": "2hrs" },
+            { "id": "TAM_SAL_P2", "subject": "Tamil SAL P2", "duration": "2hrs" },
+            { "id": "TEL_HL_P2", "subject": "Telugu HL P2", "duration": "2 1/2hrs" },
+            { "id": "TEL_FAL_P2", "subject": "Telugu FAL P2", "duration": "2hrs" },
+            { "id": "TEL_SAL_P2", "subject": "Telugu SAL P2", "duration": "2hrs" },
+            { "id": "URD_HL_P2", "subject": "Urdu HL P2", "duration": "2 1/2hrs" },
+            { "id": "URD_FAL_P2", "subject": "Urdu FAL P2", "duration": "2hrs" },
+            { "id": "URD_SAL_P2", "subject": "Urdu SAL P2", "duration": "2hrs" },
+            { "id": "HEB_SAL_P2", "subject": "Hebrew SAL P2", "duration": "2hrs" },
+            { "id": "GER_HL_P2", "subject": "German HL P2", "duration": "2 1/2hrs" },
+            { "id": "GER_FAL_P2", "subject": "German FAL P2", "duration": "2hrs" },
+            { "id": "GER_SAL_P2", "subject": "German SAL P2", "duration": "2hrs" }
+          ]
+        }
+      },
+      {
+        "date": "2026-10-16",
+        "day_of_week": "Friday",
+        "week_number": 1,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [
+            { "id": "DSGN_P1", "subject": "Design P1", "duration": "3hrs" }
+          ],
+          "afternoon_14_00": [
+            { "id": "ECON_P1", "subject": "Economics P1", "duration": "2hrs" },
+            { "id": "MECH_TECH", "subject": "Mechanical Technology", "duration": "3hrs" }
+          ]
+        }
+      },
+      {
+        "date": "2026-10-19",
+        "day_of_week": "Monday",
+        "week_number": 2,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [
+            { "id": "AGR_SCI_P1", "subject": "Agricultural Sciences P1", "duration": "2 1/2hrs" }
+          ],
+          "afternoon_14_00": [
+            { "id": "ZUL_HL_P3", "subject": "isiZulu HL P3", "duration": "3hrs" },
+            { "id": "ZUL_FAL_P3", "subject": "isiZulu FAL P3", "duration": "2 1/2hrs" },
+            { "id": "ZUL_SAL_P3", "subject": "isiZulu SAL P3", "duration": "2 1/2hrs" },
+            { "id": "XHO_HL_P3", "subject": "isiXhosa HL P3", "duration": "3hrs" },
+            { "id": "XHO_FAL_P3", "subject": "isiXhosa FAL P3", "duration": "2 1/2hrs" },
+            { "id": "XHO_SAL_P3", "subject": "isiXhosa SAL P3", "duration": "2 1/2hrs" },
+            { "id": "SWA_HL_P3", "subject": "siSwati HL P3", "duration": "3hrs" },
+            { "id": "SWA_FAL_P3", "subject": "siSwati FAL P3", "duration": "2 1/2hrs" },
+            { "id": "SWA_SAL_P3", "subject": "siSwati SAL P3", "duration": "2 1/2hrs" },
+            { "id": "NDE_HL_P3", "subject": "isiNdebele HL P3", "duration": "3hrs" },
+            { "id": "NDE_FAL_P3", "subject": "isiNdebele FAL P3", "duration": "2 1/2hrs" },
+            { "id": "NDE_SAL_P3", "subject": "isiNdebele SAL P3", "duration": "2 1/2hrs" }
+          ]
+        }
+      },
+      {
+        "date": "2026-10-20",
+        "day_of_week": "Tuesday",
+        "week_number": 2,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [
+            { "id": "HIST_P1", "subject": "History P1", "duration": "3hrs" },
+            { "id": "MAR_ECON", "subject": "Maritime Economics", "duration": "3hrs" }
+          ],
+          "afternoon_14_00": [
+            { "id": "AFR_HL_P3", "subject": "Afrikaans HL P3", "duration": "3hrs" },
+            { "id": "AFR_FAL_P3", "subject": "Afrikaans FAL P3", "duration": "2 1/2hrs" },
+            { "id": "AFR_SAL_P3", "subject": "Afrikaans SAL P3", "duration": "2 1/2hrs" }
+          ]
+        }
+      },
+      {
+        "date": "2026-10-21",
+        "day_of_week": "Wednesday",
+        "week_number": 2,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [
+            { "id": "IT_P2_THEORY", "subject": "Information Technology P2 Theory", "duration": "3hrs" }
+          ],
+          "afternoon_14_00": [
+            { "id": "SEP_HL_P3", "subject": "Sepedi HL P3", "duration": "3hrs" },
+            { "id": "SEP_FAL_P3", "subject": "Sepedi FAL P3", "duration": "2 1/2hrs" },
+            { "id": "SEP_SAL_P3", "subject": "Sepedi SAL P3", "duration": "2 1/2hrs" },
+            { "id": "SOT_HL_P3", "subject": "Sesotho HL P3", "duration": "3hrs" },
+            { "id": "SOT_FAL_P3", "subject": "Sesotho FAL P3", "duration": "2 1/2hrs" },
+            { "id": "SOT_SAL_P3", "subject": "Sesotho SAL P3", "duration": "2 1/2hrs" },
+            { "id": "TSN_HL_P3", "subject": "Setswana HL P3", "duration": "3hrs" },
+            { "id": "TSN_FAL_P3", "subject": "Setswana FAL P3", "duration": "2 1/2hrs" },
+            { "id": "TSN_SAL_P3", "subject": "Setswana SAL P3", "duration": "2 1/2hrs" },
+            { "id": "XIT_HL_P3", "subject": "Xitsonga HL P3", "duration": "3hrs" },
+            { "id": "XIT_FAL_P3", "subject": "Xitsonga FAL P3", "duration": "2 1/2hrs" },
+            { "id": "XIT_SAL_P3", "subject": "Xitsonga SAL P3", "duration": "2 1/2hrs" },
+            { "id": "TSV_HL_P3", "subject": "Tshivenda HL P3", "duration": "3hrs" },
+            { "id": "TSV_FAL_P3", "subject": "Tshivenda FAL P3", "duration": "2 1/2hrs" },
+            { "id": "TSV_SAL_P3", "subject": "Tshivenda SAL P3", "duration": "2 1/2hrs" },
+            { "id": "SASL_HL_P3", "subject": "South African Sign Language HL P3", "duration": "3hrs" }
+          ]
+        }
+      },
+      {
+        "date": "2026-10-22",
+        "day_of_week": "Thursday",
+        "week_number": 2,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [
+            { "id": "EGD_P1", "subject": "Engineering Graphics and Design P1", "duration": "3hrs" },
+            { "id": "MAR_SCI_P1", "subject": "Marine Sciences P1", "duration": "2 1/2hrs" }
+          ],
+          "afternoon_14_00": [
+            { "id": "ACC_P1", "subject": "Accounting P1", "duration": "2hrs" }
+          ]
+        }
+      },
+      {
+        "date": "2026-10-23",
+        "day_of_week": "Friday",
+        "week_number": 2,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [
+            { "id": "MATH_P1", "subject": "Mathematics P1", "duration": "3hrs" },
+            { "id": "HIN_HL_P3", "subject": "Hindi HL P3", "duration": "2 1/2hrs" },
+            { "id": "HIN_FAL_P3", "subject": "Hindi FAL P3", "duration": "2 1/2hrs" },
+            { "id": "GUJ_HL_P3", "subject": "Gujarati HL P3", "duration": "2 1/2hrs" },
+            { "id": "GUJ_FAL_P3", "subject": "Gujarati FAL P3", "duration": "2 1/2hrs" },
+            { "id": "TAM_HL_P3", "subject": "Tamil HL P3", "duration": "2 1/2hrs" },
+            { "id": "TAM_FAL_P3", "subject": "Tamil FAL P3", "duration": "2 1/2hrs" },
+            { "id": "TEL_HL_P3", "subject": "Telugu HL P3", "duration": "2 1/2hrs" },
+            { "id": "TEL_FAL_P3", "subject": "Telugu FAL P3", "duration": "2 1/2hrs" },
+            { "id": "URD_HL_P3", "subject": "Urdu HL P3", "duration": "2 1/2hrs" },
+            { "id": "URD_FAL_P3", "subject": "Urdu FAL P3", "duration": "2 1/2hrs" },
+            { "id": "POR_HL_P3", "subject": "Portuguese HL P3", "duration": "2 1/2hrs" },
+            { "id": "POR_FAL_P3", "subject": "Portuguese FAL P3", "duration": "2 1/2hrs" },
+            { "id": "GER_HL_P3", "subject": "German HL P3", "duration": "2 1/2hrs" },
+            { "id": "GER_FAL_P3", "subject": "German FAL P3", "duration": "2 1/2hrs" }
+          ],
+          "afternoon_14_00": [
+            { "id": "MLIT_P1", "subject": "Mathematical Literacy P1", "duration": "3hrs" },
+            { "id": "TMTH_P1", "subject": "Technical Mathematics P1", "duration": "3hrs" }
+          ]
+        }
+      },
+      {
+        "date": "2026-10-26",
+        "day_of_week": "Monday",
+        "week_number": 3,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [
+            { "id": "MATH_P2", "subject": "Mathematics P2", "duration": "3hrs" },
+            { "id": "MLIT_P2", "subject": "Mathematical Literacy P2", "duration": "3hrs" },
+            { "id": "TMTH_P2", "subject": "Technical Mathematics P2", "duration": "3hrs" }
+          ],
+          "afternoon_14_00": [
+            { "id": "SPO_EX_SCI", "subject": "Sport and Exercise Science", "duration": "3hrs" }
+          ]
+        }
+      },
+      {
+        "date": "2026-10-27",
+        "day_of_week": "Tuesday",
+        "week_number": 3,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [
+            { "id": "EGD_P2", "subject": "Engineering Graphics and Design P2", "duration": "3hrs" }
+          ],
+          "afternoon_14_00": [
+            { "id": "SEP_HL_P1", "subject": "Sepedi HL P1", "duration": "2hrs" },
+            { "id": "SEP_FAL_P1", "subject": "Sepedi FAL P1", "duration": "2hrs" },
+            { "id": "SEP_SAL_P1", "subject": "Sepedi SAL P1", "duration": "2hrs" },
+            { "id": "SOT_HL_P1", "subject": "Sesotho HL P1", "duration": "2hrs" },
+            { "id": "SOT_FAL_P1", "subject": "Sesotho FAL P1", "duration": "2hrs" },
+            { "id": "SOT_SAL_P1", "subject": "Sesotho SAL P1", "duration": "2hrs" },
+            { "id": "TSN_HL_P1", "subject": "Setswana HL P1", "duration": "2hrs" },
+            { "id": "TSN_FAL_P1", "subject": "Setswana FAL P1", "duration": "2hrs" },
+            { "id": "TSN_SAL_P1", "subject": "Setswana SAL P1", "duration": "2hrs" },
+            { "id": "XIT_HL_P1", "subject": "Xitsonga HL P1", "duration": "2hrs" },
+            { "id": "XIT_FAL_P1", "subject": "Xitsonga FAL P1", "duration": "2hrs" },
+            { "id": "XIT_SAL_P1", "subject": "Xitsonga SAL P1", "duration": "2hrs" },
+            { "id": "TSV_HL_P1", "subject": "Tshivenda HL P1", "duration": "2hrs" },
+            { "id": "TSV_FAL_P1", "subject": "Tshivenda FAL P1", "duration": "2hrs" },
+            { "id": "TSV_SAL_P1", "subject": "Tshivenda SAL P1", "duration": "2hrs" },
+            { "id": "SASL_HL_P1", "subject": "South African Sign Language HL P1", "duration": "2hrs" }
+          ]
+        }
+      },
+      {
+        "date": "2026-10-28",
+        "day_of_week": "Wednesday",
+        "week_number": 3,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [
+            { "id": "ENG_HL_P1", "subject": "English HL P1", "duration": "2hrs" },
+            { "id": "ENG_FAL_P1", "subject": "English FAL P1", "duration": "2hrs" },
+            { "id": "ENG_SAL_P1", "subject": "English SAL P1", "duration": "2hrs" }
+          ],
+          "afternoon_14_00": [
+            { "id": "ACC_P2", "subject": "Accounting P2", "duration": "2hrs" }
+          ]
+        }
+      },
+      {
+        "date": "2026-10-29",
+        "day_of_week": "Thursday",
+        "week_number": 3,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [
+            { "id": "GEO_P1", "subject": "Geography P1 (Climate and Weather, Geomorphology and Map Work)", "duration": "3hrs" }
+          ],
+          "afternoon_14_00": [
+            { "id": "CAT_P2_THEORY", "subject": "Computer Applications Tech P2 Theory", "duration": "3hrs" }
+          ]
+        }
+      },
+      {
+        "date": "2026-10-30",
+        "day_of_week": "Friday",
+        "week_number": 3,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [
+            { "id": "PHSC_P1", "subject": "Physical Sciences (Physics) P1", "duration": "3hrs" },
+            { "id": "TSC_P1", "subject": "Technical Sciences P1", "duration": "3hrs" }
+          ],
+          "afternoon_14_00": [
+            { "id": "TOURISM", "subject": "Tourism", "duration": "3hrs" }
+          ]
+        }
+      },
+      {
+        "date": "2026-11-02",
+        "day_of_week": "Monday",
+        "week_number": 4,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [
+            { "id": "PHSC_P2", "subject": "Physical Sciences (Chemistry) P2", "duration": "3hrs" },
+            { "id": "TSC_P2", "subject": "Technical Sciences P2", "duration": "1 1/2hrs" }
+          ],
+          "afternoon_14_00": [
+            { "id": "REL_P1", "subject": "Religion Studies P1", "duration": "2hrs" }
+          ]
+        }
+      },
+      {
+        "date": "2026-11-03",
+        "day_of_week": "Tuesday",
+        "week_number": 4,
+        "status": "NON_EXAMINATION_DAY",
+        "sessions": null
+      },
+      {
+        "date": "2026-11-04",
+        "day_of_week": "Wednesday",
+        "week_number": 4,
+        "status": "NON_EXAMINATION_DAY",
+        "sessions": null
+      },
+      {
+        "date": "2026-11-05",
+        "day_of_week": "Thursday",
+        "week_number": 4,
+        "status": "NON_EXAMINATION_DAY",
+        "sessions": null
+      },
+      {
+        "date": "2026-11-06",
+        "day_of_week": "Friday",
+        "week_number": 4,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [
+            { "id": "ZUL_HL_P1", "subject": "isiZulu HL P1", "duration": "2hrs" },
+            { "id": "ZUL_FAL_P1", "subject": "isiZulu FAL P1", "duration": "2hrs" },
+            { "id": "ZUL_SAL_P1", "subject": "isiZulu SAL P1", "duration": "2hrs" },
+            { "id": "XHO_HL_P1", "subject": "isiXhosa HL P1", "duration": "2hrs" },
+            { "id": "XHO_FAL_P1", "subject": "isiXhosa FAL P1", "duration": "2hrs" },
+            { "id": "XHO_SAL_P1", "subject": "isiXhosa SAL P1", "duration": "2hrs" },
+            { "id": "SWA_HL_P1", "subject": "siSwati HL P1", "duration": "2hrs" },
+            { "id": "SWA_FAL_P1", "subject": "siSwati FAL P1", "duration": "2hrs" },
+            { "id": "SWA_SAL_P1", "subject": "siSwati SAL P1", "duration": "2hrs" },
+            { "id": "NDE_HL_P1", "subject": "isiNdebele HL P1", "duration": "2hrs" },
+            { "id": "NDE_FAL_P1", "subject": "isiNdebele FAL P1", "duration": "2hrs" },
+            { "id": "NDE_SAL_P1", "subject": "isiNdebele SAL P1", "duration": "2hrs" }
+          ],
+          "afternoon_14_00": [
+            { "id": "CONS_STUD", "subject": "Consumer Studies", "duration": "3hrs" },
+            { "id": "HOSP_STUD", "subject": "Hospitality Studies", "duration": "3hrs" }
+          ]
+        }
+      },
+      {
+        "date": "2026-11-09",
+        "day_of_week": "Monday",
+        "week_number": 5,
+        "status": "NON_EXAMINATION_DAY",
+        "sessions": null
+      },
+      {
+        "date": "2026-11-10",
+        "day_of_week": "Tuesday",
+        "week_number": 5,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [
+            { "id": "ZUL_HL_P2", "subject": "isiZulu HL P2", "duration": "2 1/2hrs" },
+            { "id": "ZUL_FAL_P2", "subject": "isiZulu FAL P2", "duration": "2 1/2hrs" },
+            { "id": "ZUL_SAL_P2", "subject": "isiZulu SAL P2", "duration": "1 1/2hrs" },
+            { "id": "XHO_HL_P2", "subject": "isiXhosa HL P2", "duration": "2 1/2hrs" },
+            { "id": "XHO_FAL_P2", "subject": "isiXhosa FAL P2", "duration": "2 1/2hrs" },
+            { "id": "XHO_SAL_P2", "subject": "isiXhosa SAL P2", "duration": "1 1/2hrs" },
+            { "id": "SWA_HL_P2", "subject": "siSwati HL P2", "duration": "2 1/2hrs" },
+            { "id": "SWA_FAL_P2", "subject": "siSwati FAL P2", "duration": "2 1/2hrs" },
+            { "id": "SWA_SAL_P2", "subject": "siSwati SAL P2", "duration": "1 1/2hrs" },
+            { "id": "NDE_HL_P2", "subject": "isiNdebele HL P2", "duration": "2 1/2hrs" },
+            { "id": "NDE_FAL_P2", "subject": "isiNdebele FAL P2", "duration": "2 1/2hrs" },
+            { "id": "NDE_SAL_P2", "subject": "isiNdebele SAL P2", "duration": "1 1/2hrs" }
+          ],
+          "afternoon_14_00": [
+            { "id": "ELEC_TECH", "subject": "Electrical Technology", "duration": "3hrs" },
+            { "id": "NAUT_P1", "subject": "Nautical Science P1", "duration": "3hrs" }
+          ]
+        }
+      },
+      {
+        "date": "2026-11-11",
+        "day_of_week": "Wednesday",
+        "week_number": 5,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [
+            { "id": "AFR_HL_P1", "subject": "Afrikaans HL P1", "duration": "2hrs" },
+            { "id": "AFR_FAL_P1", "subject": "Afrikaans FAL P1", "duration": "2hrs" },
+            { "id": "AFR_SAL_P1", "subject": "Afrikaans SAL P1", "duration": "2hrs" }
+          ],
+          "afternoon_14_00": [
+            { "id": "BS_P1", "subject": "Business Studies P1", "duration": "2hrs" }
+          ]
+        }
+      },
+      {
+        "date": "2026-11-12",
+        "day_of_week": "Thursday",
+        "week_number": 5,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [
+            { "id": "GEO_P2", "subject": "Geography P2 (Rural and Urban Settlements, Economic Geography of SA and Map Work)", "duration": "3hrs" }
+          ],
+          "afternoon_14_00": [
+            { "id": "REL_P2", "subject": "Religion Studies P2", "duration": "2hrs" },
+            { "id": "ARA_SAL_P2", "subject": "Arabic SAL P2", "duration": "2hrs" },
+            { "id": "FRE_SAL_P2", "subject": "French SAL P2", "duration": "2hrs" },
+            { "id": "ITA_SAL_P2", "subject": "Italian SAL P2", "duration": "2hrs" },
+            { "id": "MAN_SAL_P2", "subject": "Mandarin SAL P2", "duration": "2hrs" },
+            { "id": "GRK_SAL_P2", "subject": "Modern Greek SAL P2", "duration": "2hrs" },
+            { "id": "SER_SAL_P2", "subject": "Serbian SAL P2", "duration": "2hrs" },
+            { "id": "SPA_SAL_P2", "subject": "Spanish SAL P2", "duration": "2hrs" },
+            { "id": "LAT_SAL_P2", "subject": "Latin SAL P2", "duration": "2hrs" },
+            { "id": "POR_HL_P2", "subject": "Portuguese HL P2", "duration": "2 1/2hrs" },
+            { "id": "POR_FAL_P2", "subject": "Portuguese FAL P2", "duration": "2hrs" },
+            { "id": "POR_SAL_P2", "subject": "Portuguese SAL P2", "duration": "2hrs" }
+          ]
+        }
+      },
+      {
+        "date": "2026-11-13",
+        "day_of_week": "Friday",
+        "week_number": 5,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [
+            { "id": "LFSC_P1", "subject": "Life Sciences P1", "duration": "2 1/2hrs" }
+          ],
+          "afternoon_14_00": [
+            { "id": "EQUINE_STUD", "subject": "Equine Studies", "duration": "3hrs" }
+          ]
+        }
+      },
+      {
+        "date": "2026-11-16",
+        "day_of_week": "Monday",
+        "week_number": 6,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [
+            { "id": "LFSC_P2", "subject": "Life Sciences P2", "duration": "2 1/2hrs" }
+          ],
+          "afternoon_14_00": [
+            { "id": "DRAMA", "subject": "Dramatic Arts", "duration": "3hrs" },
+            { "id": "CIV_TECH", "subject": "Civil Technology", "duration": "3hrs" }
+          ]
+        }
+      },
+      {
+        "date": "2026-11-17",
+        "day_of_week": "Tuesday",
+        "week_number": 6,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [
+            { "id": "SEP_HL_P2", "subject": "Sepedi HL P2", "duration": "2 1/2hrs" },
+            { "id": "SEP_FAL_P2", "subject": "Sepedi FAL P2", "duration": "2 1/2hrs" },
+            { "id": "SEP_SAL_P2", "subject": "Sepedi SAL P2", "duration": "1 1/2hrs" },
+            { "id": "SOT_HL_P2", "subject": "Sesotho HL P2", "duration": "2 1/2hrs" },
+            { "id": "SOT_FAL_P2", "subject": "Sesotho FAL P2", "duration": "2 1/2hrs" },
+            { "id": "SOT_SAL_P2", "subject": "Sesotho SAL P2", "duration": "1 1/2hrs" },
+            { "id": "TSN_HL_P2", "subject": "Setswana HL P2", "duration": "2 1/2hrs" },
+            { "id": "TSN_FAL_P2", "subject": "Setswana FAL P2", "duration": "2 1/2hrs" },
+            { "id": "TSN_SAL_P2", "subject": "Setswana SAL P2", "duration": "1 1/2hrs" },
+            { "id": "XIT_HL_P2", "subject": "Xitsonga HL P2", "duration": "2 1/2hrs" },
+            { "id": "XIT_FAL_P2", "subject": "Xitsonga FAL P2", "duration": "2 1/2hrs" },
+            { "id": "XIT_SAL_P2", "subject": "Xitsonga SAL P2", "duration": "1 1/2hrs" },
+            { "id": "TSV_HL_P2", "subject": "Tshivenda HL P2", "duration": "2 1/2hrs" },
+            { "id": "TSV_FAL_P2", "subject": "Tshivenda FAL P2", "duration": "2 1/2hrs" },
+            { "id": "TSV_SAL_P2", "subject": "Tshivenda SAL P2", "duration": "1 1/2hrs" },
+            { "id": "SASL_HL_P2", "subject": "South African Sign Language HL P2", "duration": "2 1/2hrs" }
+          ],
+          "afternoon_14_00": [
+            { "id": "AGR_SCI_P2", "subject": "Agricultural Sciences P2", "duration": "2 1/2hrs" }
+          ]
+        }
+      },
+      {
+        "date": "2026-11-18",
+        "day_of_week": "Wednesday",
+        "week_number": 6,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [
+            { "id": "BS_P2", "subject": "Business Studies P2", "duration": "2hrs" }
+          ],
+          "afternoon_14_00": [
+            { "id": "NAUT_P2", "subject": "Nautical Science P2", "duration": "3hrs" }
+          ]
+        }
+      },
+      {
+        "date": "2026-11-19",
+        "day_of_week": "Thursday",
+        "week_number": 6,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [
+            { "id": "ENG_HL_P2", "subject": "English HL P2", "duration": "2 1/2hrs" },
+            { "id": "ENG_FAL_P2", "subject": "English FAL P2", "duration": "2 1/2hrs" },
+            { "id": "ENG_SAL_P2", "subject": "English SAL P2", "duration": "1 1/2hrs" }
+          ],
+          "afternoon_14_00": [
+            { "id": "VIS_ARTS_P1", "subject": "Visual Arts P1", "duration": "3hrs" }
+          ]
+        }
+      },
+      {
+        "date": "2026-11-20",
+        "day_of_week": "Friday",
+        "week_number": 6,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [
+            { "id": "AFR_HL_P2", "subject": "Afrikaans HL P2", "duration": "2 1/2hrs" },
+            { "id": "AFR_FAL_P2", "subject": "Afrikaans FAL P2", "duration": "2 1/2hrs" },
+            { "id": "AFR_SAL_P2", "subject": "Afrikaans SAL P2", "duration": "1 1/2hrs" }
+          ],
+          "afternoon_14_00": [
+            { "id": "HIST_P2", "subject": "History P2", "duration": "3hrs" }
+          ]
+        }
+      },
+      {
+        "date": "2026-11-23",
+        "day_of_week": "Monday",
+        "week_number": 7,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [
+            { "id": "AGR_TECH", "subject": "Agricultural Technology", "duration": "3hrs" }
+          ],
+          "afternoon_14_00": [
+            { "id": "ECON_P2", "subject": "Economics P2", "duration": "2hrs" }
+          ]
+        }
+      },
+      {
+        "date": "2026-11-24",
+        "day_of_week": "Tuesday",
+        "week_number": 7,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [
+            { "id": "AGR_MGMT_PRAC", "subject": "Agricultural Management Practices", "duration": "3hrs" },
+            { "id": "MAR_SCI_P2", "subject": "Marine Sciences P2", "duration": "2 1/2hrs" }
+          ],
+          "afternoon_14_00": [
+            { "id": "MUSIC_P1_THEORY", "subject": "Music P1 Theory", "duration": "3hrs" }
+          ]
+        }
+      },
+      {
+        "date": "2026-11-25",
+        "day_of_week": "Wednesday",
+        "week_number": 7,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [
+            { "id": "MUSIC_P2_COMP", "subject": "Music P2 Comprehension", "duration": "1 1/2hrs" }
+          ],
+          "afternoon_14_00": [
+            { "id": "DANCE_STUD", "subject": "Dance Studies", "duration": "3hrs" }
+          ]
+        }
+      },
+      {
+        "date": "2026-11-26",
+        "day_of_week": "Thursday",
+        "week_number": 7,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [
+            { "id": "CAT_P1_REWRITE", "subject": "CAT P1 Rewrite Practical", "duration": "3hrs" },
+            { "id": "IT_P1_REWRITE", "subject": "IT P1 Rewrite Practical", "duration": "3hrs" }
+          ],
+          "afternoon_14_00": []
+        }
+      },
+      {
+        "date": "2026-11-27",
+        "day_of_week": "Friday",
+        "week_number": 7,
+        "status": "EXAMINATION_DAY",
+        "sessions": {
+          "morning_09_00": [],
+          "afternoon_14_00": []
+        }
+      }
+    ]
+  }
