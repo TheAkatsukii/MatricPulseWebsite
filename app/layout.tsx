@@ -29,7 +29,6 @@ export const metadata: Metadata = {
     'past papers',
     'exam countdown',
   ],
-  generator: 'v0.app',
   openGraph: {
     title: 'MatricPulse — Personalised NSC exam tracker',
     description:
