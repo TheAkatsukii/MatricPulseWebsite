@@ -9,15 +9,14 @@ Next.js site for Matric Pulse. Static exam JSON is served from `public/` so the 
 
 Workflow: [`.github/workflows/sync-exam-config.yml`](.github/workflows/sync-exam-config.yml)
 
-[MatricPulseScrapper](https://github.com/TheAkatsukii/MatricPulseScrapper) scrapes weekly, uploads a GitHub Actions artifact named `past-papers-config`, then dispatches this workflow with `scraper_run_id`.
+[MatricPulseScrapper](https://github.com/TheAkatsukii/MatricPulseScrapper) uploads a GitHub Actions artifact, then dispatches this workflow with `scraper_run_id` and `artifact_name`:
 
-This job:
+| `artifact_name` | Public file |
+|---|---|
+| `past-papers-config` (default) | `public/past_papers_archive.json` |
+| `timetable-config` | `public/timetable.json` |
 
-1. Downloads that artifact from the scraper repo
-2. Writes `public/past_papers_archive.json`
-3. Commits and pushes if the file changed (hosting then deploys)
-
-`public/timetable.json` is seeded from the Android bundled timetable. It is **not** produced by the scraper; update it in this repo when the DBE timetable changes.
+The Android app fetches those URLs on launch.
 
 ### Secret: `CONFIG_SYNC_TOKEN`
 
